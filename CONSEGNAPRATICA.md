@@ -1,4 +1,0 @@
-
-
-
-"Un algoritmo può definirsi come un gruppo di regole o meccanismi che vanno rispettati in modo di ottenere un determinato prodotto. Tramite gli input, l'algoritmo accetta l'informazione d'entrata che viene sottoposta a questi meccanismi predefiniti producendo i risultati.  Se fornito della stessa informazione in diverse occasioni produrrà sempre gli stessi prodotti. Si può paragonare alle istruzioni di montaggio di un armadio IKEA o quelle di un puzzle LEGO. Entrambi dovrebbero portare sempre allo stesso risultato un volta che i pezzi di partenza saranno sempre quelli. Se decidiamo di produrre un risultato diverso, cioè, un armadio o una costruzione diversi, dobbiamo cambiare le istruzioni (algoritmo). "
